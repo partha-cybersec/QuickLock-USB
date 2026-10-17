@@ -159,6 +159,6 @@ See **[docs/Troubleshooting.md](docs/Troubleshooting.md)**, or check the log at 
 ## 👤 Author
 
 **Alluri Partha Saradhi Reddy**, Cybersecurity student
-GitHub: [@aparthasaradhireddy897-hash](https://github.com/aparthasaradhireddy897-hash)
+GitHub: [@partha-cybersec](https://github.com/partha-cybersec)
 
 Contributions and issues are welcome!
