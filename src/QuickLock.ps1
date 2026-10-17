@@ -39,7 +39,7 @@
     .\QuickLock.ps1 -Status
 
 .LINK
-    https://github.com/aparthasaradhireddy897-hash/QuickLock-USB
+    https://github.com/partha-cybersec/QuickLock-USB
 #>
 [CmdletBinding()]
 param(
